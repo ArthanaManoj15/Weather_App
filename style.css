@@ -1,0 +1,10 @@
+
+.features-icons ,.page-section{
+    color: white;
+    text-shadow: 2px 2px black;
+}
+body{
+    overflow-x: hidden;
+    transition: background-image 0.1s ease-in-out;
+    background-image: url(https://windows10spotlight.com/wp-content/uploads/2021/02/cd299d67cbde360875570b7d13694c02.jpg);
+}
